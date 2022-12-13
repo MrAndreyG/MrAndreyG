@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrAndreyG
+- 👋 Hi, I’m Andrey
 - 👀 I’m interested in C#, Asp.net Core, MSSQL, PostgreSQL, Javascript
 - 🌱 I’m currently learning Asp.Net Core, C#, C# PLINQ
 - 💞️ I’m looking to collaborate on something interesting, that can help me enhance my skill
